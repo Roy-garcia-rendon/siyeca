@@ -18,7 +18,8 @@ servicios_publicos estructura:
 Datos:
 ![image](https://github.com/user-attachments/assets/0ebefd81-1da4-48b0-bf0c-ab1198600798)
 
-
+El repositorio incluye documentos PDF con la información de las tablas, básicamente lo ya mostrado anterior mente,
+NOTA: lamentablemente no pude incluir la librería que utilizo para la creación de reportes de empleados, pero aquí dejo el link de los creadores para que la descarguen y la implementen: https://github.com/dompdf/dompdf
 
 
 
