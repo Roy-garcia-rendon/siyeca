@@ -1,7 +1,7 @@
 Página web php con implementación en base de datos MySQL en xampp,
 al descargar el archivo tendrás que poner en funcionamiento la base de datos, para eso te diriges a phpmyadmin y crearas una base de datos llamada siyeca12, al hacerla tendrás que abrir el documento que se encuantra en bd_xampp el cual se llama siyeca12 y copiar
 el código que se encuentra en ella para pegarla en myadmin.
-Al mometo de crear las tablas de la base de datos te quedaro algo asi:
+Al mometo de crear las tablas de la base de datos te quedara algo asi:
 ![image](https://github.com/user-attachments/assets/ae442352-6f5c-4cfd-bc82-de12f0bf4d94)
 
 Estas son las tablas de la base de datos las cuales tienen almacenados los registros de la misma.
