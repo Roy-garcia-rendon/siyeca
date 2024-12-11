@@ -1,3 +1,5 @@
+https://github.com/Roy-garcia-rendon/Siyeca
+
 Página web php con implementación en base de datos MySQL en xampp,
 al descargar el archivo tendrás que poner en funcionamiento la base de datos, para eso te diriges a phpmyadmin y crearas una base de datos llamada siyeca12, al hacerla tendrás que abrir el documento que se encuantra en bd_xampp el cual se llama siyeca12 y copiar
 el código que se encuentra en ella para pegarla en myadmin.
