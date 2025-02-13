@@ -1,0 +1,8 @@
+{
+    "poppins": {
+        "600_italic": "C:\\xampp\\htdocs\\siyeca\\administrador\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_600_italic_61021eb1e3e2be5bdb30ceaf8c08eea9",
+        "normal": "C:\\xampp\\htdocs\\siyeca\\administrador\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_normal_12f61e1aca2bd22472c17cf0465b304e",
+        "500": "C:\\xampp\\htdocs\\siyeca\\administrador\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_500_eaa67a2dcd54166f62e0cc3adc7e1b71",
+        "bold": "poppins_bold_dd0c9eff9089b312c7d5e9a1f45059a4"
+    }
+}
